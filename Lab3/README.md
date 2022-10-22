@@ -1,0 +1,1 @@
+docker build -t kingachwaleba/lab2.v1 --ssh default .
